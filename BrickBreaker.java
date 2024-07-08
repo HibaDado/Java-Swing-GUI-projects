@@ -5,8 +5,6 @@ import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 
-// Hiba Raed Dado
-// 202211860
 public class BrickBreaker extends JFrame {
     public BrickBreaker(String title) throws HeadlessException{
         super(title);
